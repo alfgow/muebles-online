@@ -40,6 +40,17 @@ h3 {
 	background-color: whitesmoke !important;
 }
 
+.bg-alfgow {
+	background-color: var(--alfgow) !important;
+}
+
+.form-control {
+	padding: 1rem;
+	font-size: 1.6rem;
+	border: 1px solid var(--alfgow);
+	border-radius: 10px;
+}
+
 .btn-success {
 	background-color: var(--alfgow) !important;
 	color: gray;
